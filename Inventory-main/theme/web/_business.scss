@@ -1,0 +1,16 @@
+@import './custom-variables';
+
+.red-background { background-color: red; }
+.green-background { background-color: green; }
+.yellow-background { background-color: yellow; }
+.circle {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%; /* El 50% del ancho o alto hace que el div sea circular */
+}
+.btn, .card, .masterdetail, .table, .titlepage {
+  border-radius: 25px;
+}
+.titlepage {
+  padding: 8px;
+}
