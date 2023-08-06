@@ -8,6 +8,6 @@ Pasos para la ejecución
 6. Espere y sincronize la base de datos
 7. Use las credenciales de la cuenta por defecto en localhost
 
-
 Usuario: admin
+
 Contraseña: 12345
