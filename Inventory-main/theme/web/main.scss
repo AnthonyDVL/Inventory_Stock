@@ -1,2 +1,11 @@
 @import "custom-variables";
-@import "_business"
+@import "_business";
+
+.backgroundLogin{
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    height: 100vh;
+    max-height: 100vh;
+    background-size: cover;
+    background-image: url("img/Business$Images$background_login.png");
+}
